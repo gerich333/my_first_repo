@@ -39,3 +39,7 @@ git branch
 ```sh
 git branch <name_new_branch>
 ```
+
+Удаление ветки
+
+git delete branch <name_branch>
