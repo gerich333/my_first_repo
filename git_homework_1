@@ -5,6 +5,11 @@
 git init
 ```
 
+Выводит версию Git:
+```sh
+git --version
+```
+
 Выводит в терминал статус Git:
 ```sh
 git status
