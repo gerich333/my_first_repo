@@ -15,6 +15,14 @@ git add <file name>
 git commit -m "Message"
 ```
 
+Выводит список всех коммитов:
+```sh
 git log
+```
+
+Выводит список всех коммитов в укороченном виде:
+```
 git log --oneline
+```
+
 git checkout
