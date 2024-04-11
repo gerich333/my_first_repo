@@ -10,7 +10,11 @@ git init
 git add <file name>
 ```
 
+Фиксация изменения файла в репозиторий:
+```sh
 git commit -m "Message"
+```
+
 git log
 git log --oneline
 git checkout
