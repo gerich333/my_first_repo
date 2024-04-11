@@ -25,9 +25,9 @@ git log
 git log --oneline
 ```
 
-Переключение между коммитами:
+Переключение между коммитами / ветками:
 ```sh
-git checkout <Hash commits>
+git checkout <Hash commits> / <branch name>
 ```
 
 Отображение всех веток
