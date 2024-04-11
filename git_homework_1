@@ -29,3 +29,8 @@ git log --oneline
 ```sh
 git checkout <Hash commits>
 ```
+
+Отображение всех веток
+```sh
+git branch
+```
