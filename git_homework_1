@@ -41,5 +41,6 @@ git branch <name_new_branch>
 ```
 
 Удаление ветки
-
-git delete branch <name_branch>
+```sh
+git branch -d <name_branch>
+```
