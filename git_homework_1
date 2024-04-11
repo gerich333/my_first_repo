@@ -5,7 +5,11 @@
 git init
 ```
 
-git add
+Добавление измененного файла в индекс:
+```sh
+git add <file name>
+```
+
 git commit -m "Message"
 git log
 git log --oneline
