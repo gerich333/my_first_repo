@@ -33,5 +33,9 @@ git checkout <Hash commits> / <branch name>
 Отображение всех веток
 ```sh
 git branch
->>>>>>> branch_comand
+```
+
+Создание новой ветки
+```sh
+git branch <name_new_branch>
 ```
